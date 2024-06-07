@@ -406,28 +406,28 @@ let levels = {
       // Sets up mobile traps, saws
       traps = [
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 387.0,
           y: 214.0,
         }),
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 515.0,
           y: 214.0,
         }),
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 643.0,
           y: 214.0,
         }),
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 755.0,
@@ -673,21 +673,21 @@ let levels = {
       player.position.y = 450;
       traps = [
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 387.0,
           y: 214.0,
         }),
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 643.0,
           y: 214.0,
         }),
         new Saw({
-          imageSrc: "./img/traps/onSaw.png",
+          imageSrc: "./img/traps/OnSaw.png",
           frameRate: 8,
           animations: {},
           x: 755.0,
