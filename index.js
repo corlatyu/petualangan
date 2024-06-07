@@ -278,7 +278,7 @@ let levels = {
       // Sets up mobile traps, saws
       traps = [
         new Saw({
-          imageSrc: "./img/traps/OnSaw.png",
+          imageSrc: "./img/traps/onSaw.png",
           frameRate: 8,
           animations: {},
           x: 418.0,
